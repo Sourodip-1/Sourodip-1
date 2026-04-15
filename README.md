@@ -15,7 +15,7 @@
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sourodip-1/sourodip-1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sourodip-1/sourodip-1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
