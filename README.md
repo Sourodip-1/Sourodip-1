@@ -109,4 +109,9 @@ Simple • Fast • Scalable
   <a href="https://discord.com/users/904744531717677116">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://www.buymeacoffee.com/sourodip" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+       alt="Buy Me a Coffee" 
+       style="height: 41px !important;width: 174px !important;">
+</a>
 </p>
